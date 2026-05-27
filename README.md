@@ -46,7 +46,7 @@ SETUP:
 4. Open your browser and go to:
     > http://127.0.0.1:5000
 5. Start the brute force script (Terminal 2):
-    node PINBrute.js 000000 999999
+    > node PINBrute.js 000000 999999
 6. When prompted, enter your target URL:
     > http://127.0.0.1:5000/api/auth
 
