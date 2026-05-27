@@ -1,5 +1,5 @@
 // PINBrute.js - This script can brute force up to six didget pin numbers. 
-// Developed by: ozrv, This script is for educational purposes only, 
+// Developed by: ozrvv on github, This script is for educational purposes only, 
 // please do not use it on a real target as that is not legal.
 
 // Usage: node PINBrute.js [start] [end] > EXAMPLE: node PINBrute.js 000000 999999
