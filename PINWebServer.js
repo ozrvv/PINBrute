@@ -11,6 +11,9 @@
 // PINWebServer.js - This script is the addon to PINBrute.js, it hosts a webserver on the local ip+port "http://127.0.0.1:5000"
 // Developed by: ozrvv on github, This script is for educational purposes only.
 
+// Feel free to fork this project and improve it.
+// Credit is appreciated if you build upon this project.
+
 /* Setup: 
  - Make sure you have Node.js and express installed
  - Run the command "node PINWebServer.js"
