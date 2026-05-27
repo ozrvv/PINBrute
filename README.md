@@ -37,18 +37,18 @@ SETUP:
 
 1. Make sure Node.js is installed on your system
     You can check by running:
-    node -v
+     > node -v
 2. Install dependencies inside the project folder:
-    npm init -y
-    npm install express
+     > npm init -y
+     > npm install express
 3. Start the local web server (Terminal 1):
-    node PINWebServer.js
+    > node PINWebServer.js
 4. Open your browser and go to:
-    http://127.0.0.1:5000
+    > http://127.0.0.1:5000
 5. Start the brute force script (Terminal 2):
     node PINBrute.js 000000 999999
 6. When prompted, enter your target URL:
-    http://127.0.0.1:5000
+    > http://127.0.0.1:5000
 
 ⸻
 
