@@ -21,7 +21,7 @@
  - You are now ready to start brute forcing!
  *
  
-// CHECKOUT THE README FILE FOR ADDITIONAL INFORMATION!
+// CHECKOUT THE README FILE FOR ADDITIONAL INFORMATION AND PROPER SETUP!
 
 import express from "express";
 
