@@ -12,6 +12,9 @@
 // Developed by: ozrvv on github, This script is for educational purposes only, 
 // please do not use it on a real target as that is not legal.
 
+// Feel free to fork this repository and improve it.
+// Credit is appreciated if you build upon this project.
+
 // Usage: node PINBrute.js [start] [end] > EXAMPLE: node PINBrute.js 000000 999999
 // The listed example above enumerates the possible pin numbers from 000000 to 999999
 
