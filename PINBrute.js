@@ -12,20 +12,21 @@
 // Developed by: ozrvv on github, This script is for educational purposes only, 
 // please do not use it on a real target as that is not legal.
 
-// Feel free to fork this repository and improve it.
+// Feel free to fork this project and improve it.
 // Credit is appreciated if you build upon this project.
 
-// Usage: node PINBrute.js [start] [end] > EXAMPLE: node PINBrute.js 000000 999999
-// The listed example above enumerates the possible pin numbers from 000000 to 999999
-
-// After entering the Usage command you will see a prompt in the terminal, 
-// which will make you enter the Target of the PIN Enumeration Attack.
-// EXAMPLE Target: https://google.com
+/* Usage: 
+ - node PINBrute.js [start] [end] > EXAMPLE: node PINBrute.js 000000 999999
+ - The listed example above enumerates the possible pin numbers from 000000 to 999999
+ - After entering the Usage command you will see a prompt in the terminal, 
+ - which will make you enter the Target of the PIN Enumeration Attack.
+ - EXAMPLE Target: http://127.0.0.1:5000
+ */
 
 // Keep in mind that PIN Brute forcing takes time, 
 // this can take a while based on the PIN Parameters you set.
 
-// CHECKOUT THE README FILE FOR ADDITIONAL INFORMATION!
+// CHECKOUT THE README FILE FOR ADDITIONAL INFORMATION AND PROPER SETUP!
 
 import readline from 'readline';
 
