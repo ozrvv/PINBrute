@@ -19,7 +19,7 @@
  - Run the command "node PINWebServer.js"
  - Open "http://127.0.0.1:5000" in your browser
  - You are now ready to start brute forcing!
- *
+ */
  
 // CHECKOUT THE README FILE FOR ADDITIONAL INFORMATION AND PROPER SETUP!
 
