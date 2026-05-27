@@ -9,6 +9,11 @@
 ```                                                                            
 PINBrute is a simple PIN enumeration tool designed for educational and authorized testing.
 
+Requirements:
+
+ * Node.js v18 or newer recommended
+ * npm included with Node.js
+
 ⸻
 
 Features:
@@ -23,7 +28,7 @@ Features:
 
 Usage:
 
- - Run the script with the desired port ranges:
+ - Run the script with the desired PIN ranges:
 
      > node PINBrute.js 000000 999999
 
@@ -39,14 +44,13 @@ SETUP:
     You can check by running:
      > node -v
 2. Install dependencies inside the project folder:
-     > npm init -y
-     > npm install express
+     > npm install
 3. Start the local web server (Terminal 1):
     > node PINWebServer.js
 4. Open your browser and go to:
     > http://127.0.0.1:5000
 5. Start the brute force script (Terminal 2):
-    > node PINBrute.js 000000 999999
+    node PINBrute.js 000000 999999
 6. When prompted, enter your target URL:
     > http://127.0.0.1:5000/api/auth
 
