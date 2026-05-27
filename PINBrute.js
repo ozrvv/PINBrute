@@ -156,7 +156,7 @@ const endPin = Number(process.argv[3]);
 const start = Number.isFinite(startPin) ? startPin : 0;
 const end = Number.isFinite(endPin) ? endPin : 999999;
 
-console.log('â ï¸ Loading da PIN Brute Force! â ï¸');
+console.log('⚠️ Loading da PIN Brute Force! ⚠️');
 
 setTimeout(async () => {
   TARGET_URL = await ask('please enter target: ');
