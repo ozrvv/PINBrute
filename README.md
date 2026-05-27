@@ -85,6 +85,18 @@ Contributing:
 
 ⸻
 
+License:
+
+ - This project is licensed under the GNU GPLv3 License.
+
+ - You are free to use, modify, and distribute this software under the terms of the license.
+
+ - Any modified or redistributed versions of this project must also remain open source and include proper attribution.
+
+ - See the LICENSE file for additional information.
+
+⸻
+
 Author:
 
  - Developed by: “ozrvv” on github
