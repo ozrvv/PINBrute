@@ -71,9 +71,9 @@ Disclaimer:
 
  - This project is intended for educational purposes and authorized security testing only.
 
- - Do not use this software on systems you do not own or have explicit permission to test.
+ - Do not use this software against systems, services, or networks that you do not own or have explicit permission to test.
 
- - The author is not responsible for misuse of this software.
+ - The author assumes no responsibility for misuse, damage, or illegal use of this software.
 
 ⸻
 
