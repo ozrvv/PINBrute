@@ -20,7 +20,7 @@
  - The listed example above enumerates the possible pin numbers from 000000 to 999999
  - After entering the Usage command you will see a prompt in the terminal, 
  - which will make you enter the Target of the PIN Enumeration Attack.
- - EXAMPLE Target: http://127.0.0.1:5000
+ - EXAMPLE Target: http://127.0.0.1:5000/api/auth
  */
 
 // Keep in mind that PIN Brute forcing takes time, 
