@@ -12,6 +12,8 @@
 // Keep in mind that PIN Brute forcing takes time, 
 // this can take a while based on the PIN Parameters you set.
 
+// CHECKOUT THE README FILE FOR ADDITIONAL INFORMATION!
+
 import readline from 'readline';
 
 let TARGET_URL = '';
