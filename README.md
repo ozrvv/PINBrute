@@ -29,7 +29,7 @@ Usage:
 
  - After running the script, you will be prompted to enter a target.
 
-     > Target Example: http://127.0.0.1:5000
+     > Target Example: http://127.0.0.1:5000/api/auth
 
 ⸻
 
@@ -48,7 +48,7 @@ SETUP:
 5. Start the brute force script (Terminal 2):
     node PINBrute.js 000000 999999
 6. When prompted, enter your target URL:
-    > http://127.0.0.1:5000
+    > http://127.0.0.1:5000/api/auth
 
 ⸻
 
